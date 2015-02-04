@@ -1,0 +1,37 @@
+{
+  "name": "node-archiver",
+  "version": "0.0.1",
+  "description": "modules for learning modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ColumbiaJS/node-archiver.git"
+  },
+  "keywords": [
+    "module",
+    "npm",
+    "node"
+  ],
+  "author": "Lev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ColumbiaJS/node-archiver/issues"
+  },
+  "homepage": "https://github.com/ColumbiaJS/node-archiver",
+  "devDependencies": {
+    "sinon-chai": "^2.6.0",
+    "chai": "^1.10.0",
+    "sinon": "^1.12.2",
+    "mocha": "^2.1.0",
+    "gulp-mocha": "^2.0.0",
+    "jshint-stylish": "^1.0.0",
+    "gulp-util": "^3.0.3",
+    "gulp": "^3.8.10",
+    "gulp-jshint": "^1.9.2",
+    "gulp-jscs": "^1.4.0"
+  },
+  "dependencies": {}
+}
